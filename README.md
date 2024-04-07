@@ -14,7 +14,6 @@ A lightweight and customizable currency converter component for React applicatio
 To install the React Currency Converter, run the following command in your project directory:
 
 ```bash
-0deb9323-cf7c-4c88-99f6-9a8255c66fb6
 
 npm install react-currency-convert
 
@@ -23,7 +22,6 @@ npm install react-currency-convert
 or if you use yarn:
 
 ```bash
-9bbe2aef-e816-4c88-820c-70574bcc84fa
 
 yarn add react-currency-convert
 
@@ -34,7 +32,6 @@ yarn add react-currency-convert
 First, import the `CurrencyConverter` component into your React component file:
 
 ```javascript
-b08f6865-3226-4d80-a3af-34f10a54733b
 
 import React from 'react';
 import { CurrencyConverter } from 'react-currency-convert';
@@ -44,7 +41,6 @@ import { CurrencyConverter } from 'react-currency-convert';
 Then, use the `CurrencyConverter` component in your React application. You must provide a callback function (`onConvert`) to handle the conversion logic:
 
 ```javascript
-8ffe554a-e16e-41e2-843f-3a85c1d330dc
 
 import React from 'react';
 import { CurrencyConverter } from 'react-currency-convert';
