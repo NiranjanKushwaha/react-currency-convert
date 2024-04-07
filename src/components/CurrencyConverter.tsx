@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { CurrencyProps } from "../../../interface/currency.interface";
+import { CurrencyProps } from "../interface/currency.interface";
 
 const CurrencyConverter: React.FC<CurrencyProps> = ({
   onConvert,

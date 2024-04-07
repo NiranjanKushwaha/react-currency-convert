@@ -1,0 +1,3 @@
+# these files will be ignored and will not be pushed to npm
+src
+vite.config.ts

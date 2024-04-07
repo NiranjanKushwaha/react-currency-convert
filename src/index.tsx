@@ -1,1 +1,5 @@
-export { default as CurrencyConverter } from "./modules/currency/components/CurrencyConverter";
+
+import CurrencyConverter from './components/CurrencyConverter';
+
+
+export {CurrencyConverter};

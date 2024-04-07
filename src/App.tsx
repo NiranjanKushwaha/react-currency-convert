@@ -1,5 +1,5 @@
 import './App.css'
-import CurrencyConverter from './modules/currency/components/CurrencyConverter'
+import { CurrencyConverter } from './index';
 
 
 function App() {
