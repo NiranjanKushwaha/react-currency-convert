@@ -24,3 +24,5 @@ package-lock.json
 *.sln
 *.sw?
 react-currency-converter-plus-1.1.0.tgz
+.env
+env

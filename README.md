@@ -77,7 +77,6 @@ The `CurrencyConverter` component accepts the following props for customization:
 Here's a complete example showing how to use the `CurrencyConverter` component with custom props:
 
 ```javascript
-f0e491ae-9e0d-42fa-aae9-05faa25607fd
 
 import React from 'react';
 import { CurrencyConverter } from 'react-currency-convert';
